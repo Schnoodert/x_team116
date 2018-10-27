@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: tsugita0214      name 1: Takuto Sugita
        * GitHub username 2: th25cc           name 2: Tim Heinzel
-       * GitHub username 3:                  name 3: Jacob Kraft
+       * GitHub username 3: Schnoodert       name 3: Jacob Kraft
        * GitHub username 4:                  name 4: Brian Schneider
        * GitHub username 5:                  name 5:
    * When did you complete this exercise? 
