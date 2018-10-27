@@ -1,4 +1,4 @@
-# X-Team 116 Project Proposal
+# X-Team 116 Smart Purchase Planner
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
